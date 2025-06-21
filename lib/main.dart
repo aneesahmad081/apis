@@ -1,4 +1,3 @@
-import 'package:apis/sign_up.dart';
 import 'package:apis/upload_file.dart';
 import 'package:flutter/material.dart';
 
